@@ -78,7 +78,11 @@ This project is [MIT](LICENSE) licensed.
 
 ## 👥 Authors
 
-- Team Lead -
+- Team Lead -  Bannaravuri Sri Harsha Vardhan
+- mem 1 - Kakarlapudi Aishwarya
+- mem 2 - Bathina Madhulatha
+- mem 4 - Bachu Varnika
+- mem 5- Beera Sahithi 
 
 ## 🙏 Acknowledgments
 
