@@ -1,4 +1,4 @@
-# Project Name
+# OrderOnTheGo
 
 > A modern React application built with Create React App
 
