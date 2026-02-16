@@ -78,9 +78,8 @@ This project is [MIT](LICENSE) licensed.
 
 ## 👥 Authors
 
-- Your Name - [@yourusername](https://github.com/yourusername)
+- Team Lead -
 
 ## 🙏 Acknowledgments
 
 - Built with Create React App
-- Inspired by [add your inspirations]
